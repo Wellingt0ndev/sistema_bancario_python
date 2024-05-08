@@ -23,7 +23,7 @@ while True:
             extrato += f"Depósito: R$ {valor:.2f}\n"
             print(f"Depósito realizado! Saldo: R$ {saldo:.2f}")        
         else:
-            print("Operação inválida! O valor digitada não é válido")
+            print("Operação inválida! O valor digitado não é válido")
         
 
     elif operacao == "s":
@@ -45,11 +45,11 @@ while True:
             total_saque += 1
             print(f"Saque realizado! Saldo: R$ {saldo:.2f}\n")
         else:
-            print("Operação inválida! O valor digitada não é válido")
+            print("Operação inválida! O valor digitado não é válido")
 
     elif operacao == "e":
         print(f"\n =============================Extrato===============================\n")
-        print("Não houve movimentação" if not extrato else extrato)
+        print("Não foram realizadas movimentações" if not extrato else extrato)
         print()
         print(f"Saldo: R$ {saldo:.2f}\n")
         print(f"\n ===================================================================")
