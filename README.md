@@ -8,3 +8,6 @@
 
 ![image](https://github.com/Wellingt0ndev/sistema_bancario_python/assets/108769429/adb1ad06-e4e2-451c-a660-3df1673c2c4b)
 
+## Desafio modelando o sistema bancário com POO
+
+![image](https://github.com/Wellingt0ndev/sistema_bancario_python/assets/108769429/9c3e23ba-7fb1-47d5-9892-486048ee3b19)
