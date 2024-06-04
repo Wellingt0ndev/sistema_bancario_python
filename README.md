@@ -11,3 +11,15 @@
 ## Desafio modelando o sistema bancário com POO
 
 ![image](https://github.com/Wellingt0ndev/sistema_bancario_python/assets/108769429/9c3e23ba-7fb1-47d5-9892-486048ee3b19)
+
+## Desafio modelando o sistema bancário com iteradores e geradores
+
+![image](https://github.com/Wellingt0ndev/sistema_bancario_python/assets/108769429/040c4c19-63a6-4636-af50-3187351b1035)
+
+![image](https://github.com/Wellingt0ndev/sistema_bancario_python/assets/108769429/0aa1f2f9-14eb-4081-a8e0-f3164aefaac3)
+
+![image](https://github.com/Wellingt0ndev/sistema_bancario_python/assets/108769429/df73e9fb-a6da-4a47-bf19-3585f7f881ca)
+
+![image](https://github.com/Wellingt0ndev/sistema_bancario_python/assets/108769429/4606be92-4cb5-418a-847f-794a24e853a3)
+
+
