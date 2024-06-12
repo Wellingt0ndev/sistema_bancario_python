@@ -1,0 +1,6 @@
+[12-06-2024 14:26:13] Função 'criar_cliente' executada com argumentos([<PessoaFisica: ('Wellington','1')>],) e {}. Retornou None
+[12-06-2024 14:26:17] Função 'criar_conta' executada com argumentos(1, [<PessoaFisica: ('Wellington','1')>], [<ContaCorrente: ('0001', '1', 'Wellington')>]) e {}. Retornou None
+[12-06-2024 14:26:24] Função 'depositar' executada com argumentos([<PessoaFisica: ('Wellington','1')>],) e {}. Retornou None
+[12-06-2024 14:26:31] Função 'sacar' executada com argumentos([<PessoaFisica: ('Wellington','1')>],) e {}. Retornou None
+[12-06-2024 14:26:39] Função 'sacar' executada com argumentos([<PessoaFisica: ('Wellington','1')>],) e {}. Retornou None
+[12-06-2024 14:26:46] Função 'exibir_extrato' executada com argumentos([<PessoaFisica: ('Wellington','1')>],) e {}. Retornou None
